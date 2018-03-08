@@ -1,4 +1,4 @@
-# Xilinx Tcl Store
+# Xilinx Tcl Stor
 
 Welcome to the Xilinx Tcl Store GitHub Repository!
 
